@@ -1,6 +1,6 @@
 {
   "name": "rounder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Round a number to a specific number of decimal places.",
   "license": "MIT",
   "repository": "natecavanaugh/rounder",
